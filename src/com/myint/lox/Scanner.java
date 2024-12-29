@@ -4,7 +4,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import static com.myint.lox.TokenType.*;
-
 public class Scanner {
     private static final Map<String, TokenType> keywords;
   static {
